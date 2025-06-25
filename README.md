@@ -59,9 +59,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurislam243&layout=compact&theme=radical" height="170"/>
 </p>
 
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=sdfsdf&theme=radical&hide_border=false)
+<p align="center">
+  ![](https://nirzak-streak-stats.vercel.app/?user=nurislam243&theme=radical&hide_border=false)
+</p>
 
 
 
