@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/Fz6TyyG/techtinker-banner.png" alt="Nur Islam Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm <span style="color:#4A148C;">Nur Islam</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#4A148C;">Nur Islam</span></h1>
 <h3 align="center">🚀 Front-End Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
@@ -25,7 +25,11 @@
 - 💻 Building a full-stack Tech Service Sharing App – **TechTinker**
 - 🌐 Learning server-side rendering using **Next.js**
 - ✍🏻 Writing blogs and tutorials on web development (coming soon)
-- 🏆 Participated in **Programming Hero Showcase Contest – Season 4**
+- 🛡️ Learning **JWT authentication with httpOnly cookies**
+- 🧪 Implementing role-based access control in full-stack apps
+- 📘 Reading “Marhaba JavaScript e Maro Thaba” by Jhankar Mahbub
+- 📦 Creating a **Parcel shifting web app** with advanced filtering and location-based features
+
 
 ---
 
