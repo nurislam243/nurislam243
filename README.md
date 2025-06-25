@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/Fz6TyyG/techtinker-banner.png" alt="Nur Islam Banner" width="100%" />
+  <img src="assets/banner.png" alt="Nur Islam Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#4A148C;">Nur Islam</span></h1>
