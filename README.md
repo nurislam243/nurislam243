@@ -44,7 +44,7 @@
 ## 🌐 Connect with Me
 
 <p align="center"> 
-  <a href="https://x.com/MdNurIslam55434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-    generator/master/src/images/icons/Social/X.svg" alt="" height="30" width="40" /></a>  
+  <a href="https://x.com/MdNurIslam55434" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X (Twitter)" height="30" width="30" /></a>  
   <a href="https://www.linkedin.com/in/md-nur-islam-360b372a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>  
   <a href="https://www.facebook.com/nur.islam.568309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>  
 
