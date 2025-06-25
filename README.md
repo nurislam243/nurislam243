@@ -59,12 +59,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurislam243&layout=compact&theme=radical" height="170"/>
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nurislam243&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+![GitHub Streak](https://streak-stats.demolab.com?user=nurislam243&theme=radical&hide_border=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nurislam243&theme=radical&hide_border=true" height="150"/>
-</p>
 
 ---
