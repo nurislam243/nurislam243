@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurislam243&layout=compact&theme=radical" height="170"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurislam243&theme=radical&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=nurislam243&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
