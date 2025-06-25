@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nur-islam&theme=radical&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=nurislam243&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
