@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  ![](https://nirzak-streak-stats.vercel.app/?user=nurislam243&theme=radical&hide_border=false)
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nurislam243&theme=radical&hide_border=false" height="170"/>
 </p>
 
 
