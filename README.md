@@ -58,6 +58,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nurislam243&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurislam243&layout=compact&theme=radical" height="170"/>
 </p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?nurislam243=sdfsdf&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nurislam243&theme=radical&hide_border=true" height="150"/>
 </p>
