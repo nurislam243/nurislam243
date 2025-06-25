@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-nur-islam-360b372a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://facebook.com/nur.dev](https://www.facebook.com/nur.islam.568309/)" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.facebook.com/nur.islam.568309/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
