@@ -3,6 +3,8 @@
   <img src="assets/banner.jpg" alt="Nur Islam Banner" width="100%" />
 </p>
 
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=nurislam243&label=Profile%20views&color=0e75b6&style=flat" alt="nurislam" /> </span> 
+
 <h1 align="center">Hi 👋, I'm <span style="color:#4A148C;">Nur Islam</span></h1>
 <h3 align="center">🚀 Front-End Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
 
