@@ -56,10 +56,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurislam243&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurislam243&layout=compact&theme=radical" height="170"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nurislam243&show_icons=true&theme=radical" height="170"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurislam243&layout=compact&theme=radical" height="170"/>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=nurislam243&theme=radical&hide_border=false" height="170"/>
