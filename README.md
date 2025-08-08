@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="assets/banner.jpg" alt="Nur Islam Banner" width="100%" />
+  <img src="assets/github banner.png" alt="Nur Islam Banner" width="100%" />
 </p>
 
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=nurislam243&label=Profile%20views&color=0e75b6&style=flat" alt="nurislam" /> </span> 
