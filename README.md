@@ -66,5 +66,15 @@
 </p>
 
 
+<p align="center">
+  <img src="https://lecoq.io" alt="Metrics" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Trophies"/>
+</p>
+
+
+
 
 ---
